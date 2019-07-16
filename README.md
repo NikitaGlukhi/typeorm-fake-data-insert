@@ -1,4 +1,4 @@
-#How it works
+# How it works
 First of all run `npm install` and `npm run start`. Then go to `localhost:3000` and reload page. All data will be 
 generated
 
