@@ -12,9 +12,9 @@ import { CompanyToCriteriaEntity } from './enitites/company.to.criteria.entity';
       type: 'mysql',
       host: 'localhost',
       port: 3306,
-      username: 'root',
-      password: '12345',
-      database: 'typeorm_test',
+      username: '@user',
+      password: '@password',
+      database: '@db_name',
       entities: [
         CompanyEntity,
         CriteriaEntity,
