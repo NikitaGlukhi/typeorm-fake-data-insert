@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@nestjs/common": "^5.4.0",
-    "@nestjs/core": "^5.4.0",
+    "@nestjs/core": "^9.2.1",
     "@nestjs/typeorm": "6.1.2",
     "Faker": "0.7.2",
     "fs": "0.0.1-security",
